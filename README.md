@@ -59,10 +59,10 @@ It leverages several powerful AI APIs and libraries such as OpenAI, Google Cloud
   - STDIN "ekranıma bak" takes screenshot and analyzes it.
   - STDIN "Jarvis"
   - STDOUT "Efendim"
-  - STDIN "Chrome Browser'ı aç." opens Chrome Browser. ( You should set the keywords and paths for each app in the open_any_program() func. )
+  - STDIN "Kamerama bak" captures a webcam photo and analyzes it.
   - STDIN "Jarvis"
   - STDOUT "Efendim"
-  - STDIN "Spotify'ı aç." opens Spotify. ( You should set the keywords and paths for each app in the open_any_program() func. )
+  - STDIN "Spotify'ı aç." opens Spotify. ( You should set the keywords and paths for each app in the open_any_program() func. ).
   - STDIN "Jarvis"
   - STDOUT "Efendim"
   - STDIN "Youtube'u aç." opens Youtube on browser. 
