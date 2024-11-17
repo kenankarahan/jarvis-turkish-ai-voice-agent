@@ -1,7 +1,7 @@
 # **JARVIS**
 Jarvis is an AI voice agent which has func call ability and speak Turkish.
 
-# Turkish AI Assistant with Speech, Vision, and Functionality Integration
+# Turkish AI Assistant with Speech and Functionality Integration
 
 ## Overview
 
@@ -20,7 +20,7 @@ It leverages several powerful AI APIs and libraries such as OpenAI, Google Cloud
    - It uses Google’s Speech-to-Text API to process user commands and OpenAI’s GPT models to provide intelligent responses.
    - Text-to-Speech functionality is provided through Google Cloud's Text-to-Speech API, allowing the assistant to speak back in a natural-sounding voice.
 
-### 2. **Image and Vision Analysis**
+### 2. **Image Analysis**
    - The assistant can take screenshots of the user's screen or capture images via the webcam.
    - These images can then be analyzed to extract relevant information or contextual data, providing a visual understanding to complement text-based interactions.
 
