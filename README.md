@@ -37,7 +37,7 @@ It leverages several powerful AI APIs and libraries such as OpenAI, Google Cloud
 ### 1. Voice Recognition:
 
   - The assistant uses Google’s Speech-to-Text API to continuously listen for the wake word.
-  - Once the wake word "Jarvis" is detected, it becomes active and listens for the user's command.
+  - Once the wake word "Jarvis" (It is recommended to change the wake word in case of using Turkish speech recognition ) is detected, it becomes active and listens for the user's command.
 ### 2. Function Handling:
 
   - Based on the user's spoken input, the assistant calls the appropriate function (e.g., taking a screenshot, opening a program, or capturing webcam images).
