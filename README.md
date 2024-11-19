@@ -53,10 +53,10 @@ It leverages several powerful AI APIs and libraries such as OpenAI, Google Cloud
 
 ## Example Commands
    
-### First say the wake word and wait for the response. Then, tell what do you want to do.
+### First say the wake word and wait for the response. Then, tell what do you want to do. These commands are just examples of usage. User can use similar voice commands.
   - STDIN "Jarvis"
   - STDOUT "Efendim"
-  - STDIN "ekranıma bak" takes screenshot and analyzes it.
+  - STDIN "Ekranıma bak" takes screenshot and analyzes it.
   - STDIN "Jarvis"
   - STDOUT "Efendim"
   - STDIN "Kamerama bak" captures a webcam photo and analyzes it.
