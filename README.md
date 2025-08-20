@@ -5,10 +5,6 @@ Jarvis is an AI voice agent which has func call ability and speak Turkish.
 
 ## Overview
 
-There is 2 versions in this repository one of them is using ChatGPT and the other is LLama. ChatGPT version is more advenced and well developed than LLama version. Llama version is just a template for how to build your own AI Voice Agent. You can add your own funcs and customize them.
-
-
-## ChatGPT Version
 This project is a Python-based Turkish AI Assistant "Jarvis", that integrates various advanced functionalities including taking screenshot, capturing a webcam photo, extracting user's clipboard, opening programs which user will configure in the func and opening websites. The assistant can interact with the user via voice commands, take screenshots, analyze webcam images, open programs and websites, and much more. 
 
 It leverages several powerful AI APIs and libraries such as OpenAI, Google Cloud Text-to-Speech, and Gemini, making it capable of handling both textual and visual inputs. The assistant's flexibility allows users to control their system, interact with websites, and even analyze images based on their spoken commands.
@@ -78,7 +74,6 @@ Feel free to fork this repository, create issues, and contribute to its improvem
 - Python 3.8 or higher
 - API keys for:
   - OpenAI GPT-3.5 for ChatGPT version
-  - Groq for LLama version
   - Google Cloud Text-to-Speech API
   - Gemini Generative AI
 - Required libraries and dependencies
