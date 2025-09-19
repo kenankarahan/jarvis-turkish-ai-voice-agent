@@ -47,22 +47,6 @@ It leverages several powerful AI APIs and libraries such as OpenAI, Google Cloud
   - The assistant can analyze screenshots and webcam images, using AI models to extract relevant visual information and respond accordingly.
     
 
-## Example Commands
-   
-### First say the wake word and wait for the response. Then, tell what do you want to do. These commands are just examples of usage. User can use similar voice commands.
-  - STDIN "Jarvis"
-  - STDOUT "Efendim"
-  - STDIN "Ekranıma bak" takes screenshot and analyzes it.
-  - STDIN "Jarvis"
-  - STDOUT "Efendim"
-  - STDIN "Kamerama bak" captures a webcam photo and analyzes it.
-  - STDIN "Jarvis"
-  - STDOUT "Efendim"
-  - STDIN "Spotify'ı aç." opens Spotify. ( User should set the keywords and paths for each app in the open_any_program() func. ).
-  - STDIN "Jarvis"
-  - STDOUT "Efendim"
-  - STDIN "Youtube'u aç." opens Youtube on browser. 
-
 ## Contributions
 
 Feel free to fork this repository, create issues, and contribute to its improvement. Contributions are always welcome!
